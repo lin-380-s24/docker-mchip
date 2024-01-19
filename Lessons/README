@@ -1,0 +1,3 @@
+# Support R scripts
+
+These scripts are used to install and update the swirl lessons for the course. Run the `install_lessons.R` script to install the lessons. In the case that the lessons are updated, run the `update_lessons.R` script to update the lessons.
